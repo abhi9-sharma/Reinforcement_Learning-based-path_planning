@@ -40,28 +40,6 @@ The major component of the RL method is the table of weights - <b>Q-table</b> of
 * _agent_brain.py_ - implementation of algorithm itself.
 * _run_agent.py_ - running the experiments.
 
-## Content
-Codes (it'll send you to appropriate folder):
-* [RL_Q-Learning_E-1.py](https://github.com/sichkar-valentyn/Reinforcement_Learning_in_Python/tree/master/RL_Q-Learning_E1)
-* [RL_Q-Learning_E-2.py](https://github.com/sichkar-valentyn/Reinforcement_Learning_in_Python/tree/master/RL_Q-Learning_E2)
-* [RL_Q-Learning_E-3.py](https://github.com/sichkar-valentyn/Reinforcement_Learning_in_Python/tree/master/RL_Q-Learning_E3)
-* [RL_Sarsa_E-1.py](https://github.com/sichkar-valentyn/Reinforcement_Learning_in_Python/tree/master/RL_Sarsa_E1)
-* [RL_Sarsa_E-2.py](https://github.com/sichkar-valentyn/Reinforcement_Learning_in_Python/tree/master/RL_Sarsa_E2)
-
-<br/>
-Experimental results (figures and tables on this page):
-
-* [RL Q-Learning Environment-1. Experimental results](#rl-q-learning-environment-1-experimental-results)
-* [Q-learning algorithm resulted chart for the environment-1](#q-learning-algorithm-resulted-chart-for-the-environment-1)
-* [Final Q-table with values from the final shortest route for environment-1](#final-q-table-with-values-from-the-final-shortest-route-for-environment-1)
-* [RL Q-Learning Environment-2. Experimental results](#rl-q-learning-environment-2-experimental-results)
-* [Q-learning algorithm resulted chart for the environment-2](#q-learning-algorithm-resulted-chart-for-the-environment-2)
-* [Final Q-table with values from the final shortest route for environment-1](#final-q-table-with-values-from-the-final-shortest-route-for-environment-1)
-* [RL Q-Learning Environment-3. Experimental results](#rl-q-learning-environment-3-experimental-results)
-* [Comparison analysis of Q-Learning and Sarsa algorithms](#comparison-analysis-of-q-learning-and-sarsa-algorithms)
-
-<br/>
-
 ### <a id="rl-q-learning-environment-1-experimental-results">RL Q-Learning Environment-1. Experimental results</a>
 Environment-1 with mobile robot, goal and obstacles
 
