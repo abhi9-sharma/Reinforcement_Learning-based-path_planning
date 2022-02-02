@@ -2,19 +2,6 @@
 Implementing Reinforcement Learning (RL) Algorithms for global path planning in tasks of mobile robot navigation. Comparison analysis of Q-learning and Sarsa algorithms fo the environment with cliff, mouse and cheese.
 <br/>[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1317898.svg)](https://doi.org/10.5281/zenodo.1317898)
 
-### Related works:
-* Sichkar V. N. "Reinforcement Learning Algorithms in Global Path Planning for Mobile Robot", 2019 International Conference on Industrial Engineering, Applications and Manufacturing (ICIEAM), Sochi, Russia, 2019, pp. 1-5. doi: <a href="https://doi.org/10.1109/ICIEAM.2019.8742915" target="_blank">10.1109/ICIEAM.2019.8742915</a> (Full-text available also here <a href="https://www.researchgate.net/profile/Valentyn_Sichkar" target="_blank">ResearchGate.net/profile/Valentyn_Sichkar</a>)
-
-* Sichkar V. N. Effect of various dimension convolutional layer filters on traffic sign classification accuracy. Scientific and Technical Journal of Information Technologies, Mechanics and Optics, 2019, vol. 19, no. 3, pp. (in English). doi: <a href="https://doi.org/10.17586/2226-1494-2019-19-3-546-552" target="_blank">10.17586/2226-1494-2019-19-3-546-552</a> (Full-text available also here https://www.researchgate.net/profile/Valentyn_Sichkar)
-
-* Sichkar V.N. Comparison analysis of knowledge based systems for navigation of mobile robot and collision avoidance with obstacles in unknown environment. St. Petersburg State Polytechnical University Journal. Computer Science. Telecommunications and Control Systems, 2018, Vol. 11, No. 2, Pp. 64–73. doi: <a href="https://doi.org/10.18721/JCSTCS.11206" target="_blank">10.18721/JCSTCS.11206</a> (Full-text available also here https://www.researchgate.net/profile/Valentyn_Sichkar)
-
-* The research results for Neural Network Knowledge Based system for the tasks of collision avoidance is put in separate repository and is available here: https://github.com/sichkar-valentyn/Matlab_implementation_of_Neural_Networks
-
-* The study of Semantic Web languages OWL and RDF for Knowledge representation of Alarm-Warning System is put in separate repository and is available here: https://github.com/sichkar-valentyn/Knowledge_Base_Represented_by_Semantic_Web_Language
-
-* The study of Neural Networks for Computer Vision in autonomous vehicles and robotics is put in separate repository and is available here: https://github.com/sichkar-valentyn/Neural_Networks_for_Computer_Vision
-
 ## Description
 RL Algorithms implemented in Python for the task of global path planning for mobile robot. Such system is said to have feedback. The agent acts on the environment, and the environment acts on the agent. At each step the agent:
 * Executes action.
@@ -127,8 +114,5 @@ Super complex environment-3 with a lot of obstacles
 
 <br/>
 
-### MIT License
-### Copyright (c) 2018 Valentyn N Sichkar
-### github.com/sichkar-valentyn
 ### Reference to:
 Valentyn N Sichkar. Reinforcement Learning Algorithms for global path planning // GitHub platform. DOI: 10.5281/zenodo.1317898
